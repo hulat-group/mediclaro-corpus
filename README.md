@@ -16,7 +16,7 @@ Universidad Carlos III de Madrid
 
 - Paloma Martínez
 - Lourdes Moreno  
-- Jesús M Sánchez-Gomez  
+- Jesús M. Sánchez-Gomez  
 - Marco Antonio Sanchez-Escudero
 
 ---
@@ -31,6 +31,10 @@ A benchmark for Spanish medical text simplification models based on human-writte
 
 
 ---
+
+## 🤖 Corpus
+
+The corpus with the 50 original texts and the adapted texts by three different experts is available on demand in Zenodo: [MEDICLARO CORPUS](http://dx.doi.org/10.5281/zenodo.18385767).
 
 ## 🤖 Models
 
@@ -71,4 +75,6 @@ A benchmark for Spanish medical text simplification models based on human-writte
 
 ## Funding
 
-This work is part of the R&D&i ACCESS2MEET (PID2020-116527RB-I0) project financed by MCIN AEI/10.13039/501100011033/
+This work has been supported by grants:
+- PID2023-148577OB-C21 (Human-Centered AI: User-Driven Adapted Language Models-HUMAN\_AI) by MICIU/AEI/10.13039/501100011033 and by FEDER/UE.
+- 2024/00752/001 (Adaptación y optimización de modelos de lenguaje de gran tamaño para la generación de textos en lenguaje claro y lectura fácil en español, Adaptation and optimization of large language models for the generation of plain language and easy-to-read texts in Spanish) by Universidad Carlos III de Madrid, Ayudas para la Actividad Investigadora de los Jóvenes Doctores, del Programa Propio de Investigación.
