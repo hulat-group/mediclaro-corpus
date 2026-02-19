@@ -32,9 +32,11 @@ A benchmark for Spanish medical text simplification models based on human-writte
 
 ---
 
-## 🤖 Corpus
+## 📚 Corpus
 
 The corpus with the 50 original texts and the adapted texts by three different experts is available on demand in Zenodo: [MEDICLARO CORPUS](http://dx.doi.org/10.5281/zenodo.18385767).
+
+---
 
 ## 🤖 Models
 
