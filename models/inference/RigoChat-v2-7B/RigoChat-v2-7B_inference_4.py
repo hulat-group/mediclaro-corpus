@@ -1,0 +1,176 @@
+"""
+Inference script: Text simplification using fine-tuned IIC/RigoChat-7b-v2 (Causal LM) with LoRA adapters and reinforced prompt engineering, including CodeCarbon tracking (offline).
+
+This script generates patient-oriented adaptations of Spanish clinical texts using:
+- Base model: IIC/RigoChat-7b-v2.
+- LoRA adapter previously fine-tuned for text simplification.
+- A domain-specific reinforced prompt aligned with UNE-ISO 24495-1 guidelines.
+
+Input:
+- Folder containing original .txt files (clinical cases).
+- Files are automatically sorted by case number extracted from filenames
+  (pattern: "CasoClinico<NUMBER>").
+
+Outputs:
+- Adapted/simplified .txt files saved in the specified output directory.
+- CodeCarbon emissions CSV: `emissions_<project_name>_text.csv`
+  (converted to European CSV format).
+
+Post-processing:
+- Removes assistant role markers (e.g., "<|assistant|>" or "assistant")
+  from generated outputs before saving.
+
+"""
+
+import os
+import re
+import torch
+import pandas as pd
+from transformers import AutoTokenizer, AutoModelForCausalLM
+from peft import PeftModel
+from codecarbon import OfflineEmissionsTracker
+
+# =============================
+# CODECARBON (OFFLINE) - CONFIG
+# =============================
+nombre_script = os.path.basename(__file__)
+nombre_base = os.path.splitext(nombre_script)[0]
+project_name = nombre_base.replace("_c4", "")
+
+tracker = OfflineEmissionsTracker(
+    project_name=project_name,
+    output_file=f"emissions_{project_name}_text.csv",
+    country_iso_code="ESP"
+)
+
+# ======================
+# CONFIGURACIÓN DE RUTAS
+# ======================
+input_folder = "../../originales_txt_test"          
+output_folder = "../../Conjunto4_reforzado/simplificaciones/rigochat_7B"    
+os.makedirs(output_folder, exist_ok=True)
+
+# ===========================================
+# ORDENAR ARCHIVOS POR NÚMERO DE CASO CLÍNICO
+# ===========================================
+def get_case_number(filename):
+    """Extrae el número inmediatamente después de 'CasoClinico' (por ejemplo, 36 de 'CasoClinico36-2022-49.txt')."""
+    match = re.search(r'CasoClinico(\d+)', filename)
+    return int(match.group(1)) if match else float('inf')
+
+files = sorted(
+    [f for f in os.listdir(input_folder) if f.endswith(".txt")],
+    key=get_case_number
+)
+
+# ======================
+# EJECUCIÓN CON TRACKING
+# ======================
+tracker.start()
+
+try:
+
+    # ============================
+    # CARGA DEL MODELO Y TOKENIZER
+    # ============================
+    base_model = "IIC/RigoChat-7b-v2"
+    adapter_dir = "../../finetuning/FineTuningRigoChat-7B-v2" 
+
+    print(" Cargando modelo base y adaptador LoRA...")
+    tokenizer = AutoTokenizer.from_pretrained(adapter_dir, trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained(base_model, device_map="auto", torch_dtype=torch.float16, trust_remote_code=True)
+
+    model = PeftModel.from_pretrained(model, adapter_dir)
+    model.eval()
+
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+
+    print("✅ Modelo y tokenizer cargados correctamente.\n")
+
+    # =========================
+    # PROCESAMIENTO DE ARCHIVOS
+    # =========================
+    for filename in files:
+        input_path = os.path.join(input_folder, filename)
+        output_path = os.path.join(output_folder, filename)
+
+        # Lee el texto original
+        with open(input_path, "r", encoding="utf-8") as f:
+            text = f.read().strip()
+
+        # Prompt personalizado para simplificación
+        custom_prompt = f"""Eres un asistente experto en Lenguaje Claro basado en la norma UNE-ISO 24495-1, especializado en adaptar notas clínicas para que sean claras, comprensibles y útiles para pacientes. 
+
+        Aplica estos criterios:
+        0. Generalidades
+        - Utiliza frases claras, cortas y con una sola idea por oración.
+        - Usa voz activa y tono respetuoso y empático.
+        - Prefiere palabras sencillas, evitando tecnicismos o explicándolos claramente.
+        - Usa listas y párrafos breves para facilitar la lectura.
+        - Mantén un tono inclusivo y profesional, adecuado para pacientes sin formación médica.
+        1. Estructura
+        - Permite que la sección Evolución quede vacía si no hay datos. 
+        - Anticipa el Diagnóstico antes del Tratamiento y Evolución, si es pertinente.  
+        - Segrega la información en secciones claras y en el siguiente orden: Motivo de la consulta, Historia Clínica, Examen, Diagnóstico, Tratamiento y Evolución.  
+        2. Redacción
+        - Abreviaturas y siglas con formato alternativo facilitado, si es pertinente: por ejemplo, en vez de TSH se dirá de “indicador de tiroides (TSH)”.
+        - Búsqueda de léxico alternativo facilitado para expresiones médicas.
+        - Mantén el diagnóstico médico, pero se puede acompañar de una explicación comprensible.
+
+        Adapta el siguiente texto, siguiendo estas pautas
+        Texto original:
+        {text}
+        """
+
+        # Formato tipo chat
+        messages = [{"role": "user", "content": custom_prompt}]
+        prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        
+        # Tokenizar e inferir
+        inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
+    
+        with torch.no_grad():
+            outputs = model.generate(
+                **inputs,
+                max_new_tokens=1024,
+                temperature=0.3,
+                do_sample=True,
+                repetition_penalty=1.25,
+                top_p=0.85, 
+                top_k=10, 
+                num_beams=3, 
+                no_repeat_ngram_size=4
+            )
+
+        # Decodifica y limpia el texto generado
+        decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
+
+        # Si el texto contiene el marcador de chat (<|assistant|>) o "assistant"
+        if "<|assistant|>" in decoded:
+            simplified_text = decoded.split("<|assistant|>", 1)[-1].strip()
+        elif "\nassistant" in decoded:
+            simplified_text = decoded.split("\nassistant", 1)[-1].strip()
+        else:
+            simplified_text = decoded.strip()
+
+        # Se guarda el texto simplificado
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(simplified_text)
+
+        print(f"✅ Simplificado: {filename}")
+
+    print("\n🎯 Proceso completado. Los archivos simplificados están en:")
+    print(f"   {os.path.abspath(output_folder)}")
+
+finally:
+    # ==========================
+    # STOP TRACKER + CSV EUROPEO
+    # ==========================
+    _ = tracker.stop()
+
+    csv_file = f"emissions_{project_name}_text.csv"
+    if os.path.exists(csv_file):
+        df = pd.read_csv(csv_file)
+        df.to_csv(csv_file, sep=';', decimal=',', index=False, encoding='utf-8')
+        print(f"✅ Archivo convertido al formato europeo: {csv_file}")
