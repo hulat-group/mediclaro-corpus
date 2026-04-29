@@ -1,0 +1,88 @@
+{
+  "id_original_text": "string",
+  "original_text": "string",
+  "id_reference_text": ["string"],
+  "reference_text": ["string"],
+  "simplified_text": "string",
+  "scores": {
+    "simplification": {
+      "sari": {
+        "sari_total": ["number"],
+        "sari_add": ["number"],
+        "sari_keep": ["number"],
+        "sari_del": ["number"]
+      }
+    },
+    "similarity": {
+      "bertscore": {
+        "bertscore_precision": ["number"],
+        "bertscore_recall": ["number"],
+        "bertscore_f1": ["number"]
+      },
+      "moverscore": ["number"],
+      "sas": ["number"],
+      "bleu": {
+        "bleu": ["number"],
+        "bleu_precision-1": ["number"],
+        "bleu_precision-2": ["number"],
+        "bleu_precision-3": ["number"],
+        "bleu_precision-4": ["number"],
+        "bleu_brevity_penalty": ["number"],
+        "bleu_length_ratio": ["number"],
+        "bleu_translation_length": ["number"],
+        "bleu_reference_length": ["number"]
+      },
+      "rouge": {
+        "rouge-1": {
+          "rouge-1_f1": ["number"],
+          "rouge-1_precision": ["number"],
+          "rouge-1_recall": ["number"]
+        },
+        "rouge-2": {
+          "rouge-2_f1": ["number"],
+          "rouge-2_precision": ["number"],
+          "rouge-2_recall": ["number"]
+        },
+        "rouge-l": {
+          "rouge-l_f1": ["number"],
+          "rouge-l_precision": ["number"],
+          "rouge-l_recall": ["number"]
+        }
+      }
+    },
+    "factuality": {
+      "alignscore": "number",
+      "summac": {
+        "summac_zs": "number",
+        "summac_conv": "number"
+      },
+      "questeval": ["number"]
+    },
+    "readability": {
+      "fernandez-huerta": {
+        "fernandez-huerta_original": "number",
+        "fernandez-huerta_references": ["number"],
+        "fernandez-huerta_simplified": "number"
+      },
+    },
+    "consumption": {
+      "codecarbon": {
+        "codecarbon_duration": "number",
+        "codecarbon_emissions": "number",
+        "codecarbon_emissions_rate": "number",
+        "codecarbon_cpu_power": "number",
+        "codecarbon_gpu_power": "number",
+        "codecarbon_ram_power": "number",
+        "codecarbon_cpu_energy": "number",
+        "codecarbon_gpu_energy": "number",
+        "codecarbon_ram_energy": "number",
+        "codecarbon_energy_consumed": "number",
+        "codecarbon_cpu_count": "number",
+        "codecarbon_cpu_model": "string",
+        "codecarbon_gpu_count": "number",
+        "codecarbon_gpu_model": "string",
+        "codecarbon_ram_total_size": "number"
+      }
+    }
+  }
+}
