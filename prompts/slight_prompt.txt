@@ -1,0 +1,15 @@
+Simplifica el siguiente texto en español para que sea claro, breve y fácil de entender.
+
+Reglas:
+1. Usa frases y párrafos cortos.
+2. Mantén solo la información clave y elimina detalles innecesarios.
+3. Mantén los títulos que comienzan con “#”.
+4. Si el texto tiene enumeraciones, puedes usar listas.
+5. Usa conectores naturales y orden Sujeto-Verbo-Objeto.
+6. Evita tecnicismos; si aparecen, usa palabras más comunes o explica brevemente su significado.
+
+Texto original:
+[input]
+
+Texto simplificado:
+[output]
