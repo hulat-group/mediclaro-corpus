@@ -1,0 +1,23 @@
+Motivo de consulta: Paciente varón de 51 años con una erupción en la piel que comenzó hace 1 mes.
+Enfoque individual (anamnesis, exploración y pruebas complementarias):
+- Sin alergias conocidas.
+- Lesiones en la cara que se extendieron hacia abajo, con picazón intensa.
+- Zonas sanas en la espalda y tronco.
+- Queratoderma anaranjado en las manos.
+- Tratamiento con prednisolona, que provocó una reactivación del cuadro cuando se redujo la dosis.
+- Adenopatías en el cuello.
+- Biopsia diagnosticada como pitiríasis rubra pilosa.
+- Ecografía del cuello normal.
+- Pruebas de laboratorio normales.
+- Serologías negativas para enfermedades infecciosas.
+- Buen soporte familiar y social.
+Juicio clínico (listado de problemas y diagnóstico diferencial):
+- Posible relación con la vacunación contra el COVID-19 o el uso de medicamentos.
+- Se suspendió el enalapril y se cambió por losartán.
+- Se consideró toxicodermia y pitiríasís rubra pilós.
+Plan de acción y evolución:
+- Acitretino (10 mg por día) con seguimiento analítico mensual.
+- Si los parámetros son normales, aumentar la dosis al día.
+- El paciente no mejoró y se propuso el uso de secukinimab.
+- Se inició con inyecciones cada semana durante cuatro semanas, seguidas por una cada cuatro semanas.
+- La respuesta fue rápida, con mejoría del cuadro y disminución de los síntomas.

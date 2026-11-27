@@ -1,0 +1,17 @@
+Motivo de Consulta:
+Paciente femenina, 76 años, consulta por niveles elevados de glucosa en sangre relacionados con el uso de corticoides.
+Historia Clínica:
+- No alergias conocidas a medicamentos.
+- Familia con antecedentes de cáncer.
+- Enfermedades preexistentes: artrosis, enfermedad arterial hipertensiva, diabetes y cáncer en etapa terminal de ovario.
+- Medicamentos habituales: ondansetrón, lorazepam, omeprazол, paracetamol, fentanilo, sitagliptina y metformina.
+Contexto Hospitalario:
+Ingresada por neutropenia con infección pulmonar, hipoxemia y reactividad bronquial. Tratamiento incluyó oxígeno, inhaladores, y corticosteroides sistémicos.
+Revisión de Atención Primaria:
+Después del alta, se observaron niveles de glucosa muy altos (alrededor de 430 mg/dL).
+Juicio Clínico:
+Descompensación diabética causada por el tratamiento corticosteroide.
+Plan de Acción:
+Se inició el uso de insulina (insulina glargina) para controlar los niveles de azúcar en sangre. Se ajustaron las dosis según los resultados de las pruebas de glucemia. Debido a la condición terminal, se redujeron los objetivos de control glucémico para evitar complicaciones.
+Evolución:
+La paciente ha respondido favorablemente al tratamiento, manteniendo niveles normales de glucosa.

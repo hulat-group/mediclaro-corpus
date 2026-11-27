@@ -1,0 +1,25 @@
+Motivo de Consulta
+El paciente tiene un trastorno de comportamiento.
+Enfoque Individual (Anamnesis, Exploración y Pruebas Complementarias)
+- Antecedentes Familiares: El paciente tiene un abuelo y un tío paternos con trastromas de comportamiento.
+- Padre Episodio Depresivo Mayor: El paciente ha tenido episodios de depresión mayor.
+- Enfermedad Actual: El paciente acude a la consulta debido a fracasos escolares y irritabilidad.
+Exploración
+- Buen Estado General: El paciente es consciente, orientado y colaborador.
+- No hay alteraciones visuales o auditivas.
+- Tiene hipersomnia y apatía.
+Estructivo Familiar y Comunitario
+- El paciente acudiendo a la consulta acompañado de su madre.
+- La madre no presta atención al paciente y responde irritable.
+Juicio Clínico (Listado de Problemas y Diagnóstico Diferencial)
+1. Hipoacusia Neurosensorial Bilateral Progresiva de Etiología Desconocida.
+2. Afecciones Neurológicas, Trastornos Emocionales y del Comportamiento.
+3. Factores Psicológicos o Ambientales.
+4. Discapacidad Visual o Auditiva.
+5. TDAH.
+Plan de Acción y Evolución
+- Entrevista Individual con el paciente.
+- Realización de Test DSM-IV TR para confirmar diagnóstico.
+- Otoscopia y Audiometría para confirmar la hipoacusía.
+- Pruebas de RNM Craneal para estudiar la etiología.
+- Consulta con Neurología para estudiar el caso de lesión focal en el cerebro.

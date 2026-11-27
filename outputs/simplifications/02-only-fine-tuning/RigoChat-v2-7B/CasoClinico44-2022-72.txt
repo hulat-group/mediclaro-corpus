@@ -1,0 +1,14 @@
+Motivo de Consulta:
+Paciente femenina, 49 años, con esclerosis múltiple. Presenta episodios recurrentes de debilidad, fatiga y pérdida de fuerza durante varios meses.
+Enfoque Individual (Anamnesis, Exploración y Pruebas Complementarias):
+- Antecedentes: Diagnóstico de E.M. desde 17 anos, con tratamiento variado incluyendo interferón, mitoxantrona, ciclofósfamida, fingolimodo y actualmente ocrelicizumab.
+- Problemas actuales: Vesícula espástica, asma aléergico, depresión maniaco-depresiva.
+- Exploración: Estado general estable, auscultación pulmonar y cardíaca normales, destaca debilidad musculosa.
+- Pruebas: Presión arterial 126/70, frecuencia cardíaca 80, saturación de oxígeno 98%.
+- Bioquímica: Hipercalcemia (11,7 mg/dL) y aumento de la PTH (238,5 pg/mL).
+- RMN: Sin nuevos brotes de E.M.
+- Endocrinología: Ecografía sin cálculos ni adenomas, gammagrafía sugiere adenoma paratiroidiano.
+Juicio Clínico (Problemas y Diagnósticos Diferenciales):
+Diagnóstico principal: Hiperparatiroidea primaria. Posible nuevo episodio de E.M.
+Plan de Acción y Evolución:
+Confirmado hiperparatiroidismo, no se considera cirugía debido a la condición del paciente. Se propone tratamiento farmacológico con cinalcet a baja dosis y seguimiento médico en 4 weeks. Evolución favorable.

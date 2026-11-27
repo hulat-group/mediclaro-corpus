@@ -1,0 +1,19 @@
+Motivo de consulta: Dolor abdominal difuso.
+Enfoque individual: Anamnesis, explor y pruebas complementarias.
+Antecedentes: Dislipemia y diabetes diabetes tipo 2.
+Consulta: Molestias difusas abdominales, aumento de perímetros abdominales y pérdida de peso.
+Síntomas: Diarrea y vómito aislados.
+Examen físico: Estado general eupneico, sin fiebre.
+Abdomen: Ascititis generalizada.
+Prueba complementaria: Imagen abdominal y pelviana.
+Resultado: Lesiones hepato-pancreo-gastro-intestinales.
+Metástasis: Metástasis hepática y retroperineal.
+Nódulos: Nódulos perineo-aórticos.
+Lesión: Carcinoma vesicular.
+Estadio: Estadio IV.
+DIAG: Neoplasia vesicular, carcinomatosis perineo.
+Diferencial: Colecistitis, cáncer hepato-gastrointest.
+Plan de tratamiento: No tratamiento oncolítico.
+Derivación: Oncología.
+Seguimiento: Cuidados paliativos.
+Atención primaria: Derivación.

@@ -1,0 +1,20 @@
+Motivo de Consulta
+La paciente de 76 años que consulta por hiperglucémia relacionada con tratamiento corticoideo.
+Enfoque Individual (Anamnesis, Exploración y Pruebas Complementarias)
+La paciente no tiene alguna alergia conocida.
+Entre sus antecesores familiares, se encuentran una madre con carcinoma de hígado, un pariente con leucemia y otro con cáncer pulmonar paliativo.
+Entre su historial médico, se encuentra artrosis, hipotensión arterial, diabetes mellitus y una carcinomatosis ovaríaca peritoneal en tratamiento paliativo.
+Entre su tratamiento, se encuentra:
+- Ondansetron 8 mg a demanda
+- Lormetazona 2 mg 1 comprimido cada 24 horas
+- Omeprazola 20 mg cada 24 horarios
+- Paracetamol 1 g cada 12 horas
+- Fentanilo 12 microgramos cada 72 horas
+- Sitiaglipina / metformina 50 mg / 1000 mg cada 24 horarios
+La paciente fue ingresada en el Servicio de Medicina Interna en el contexto neutropenia con infección respiratorio hipoxémica e hiperreactividad bronchial secundaria.
+Una vez resuelto el caso, fue dada de alta con oxigenoterapia, inhaladores (B2 agonistas + corticoides) y tratamiento corticoideo descendente: dexametason 4 mg / 24 horas bajando a la mitad cada 5 días hasta final de tratamiento con 1 mg diario.
+En la revisión de Atención Primaria 48 horas tras alta hospitalaria, el marido informó que la paciente presentaba hiperglicemia con valores en torno a 400 mg/dL en ayunas y mantenidas a lo largo del día con clínica cardíaca.
+Evaluación Clínica (Lista de Problemas y Diagnóstico Diferencial)
+La paciente presenta una descompensación de diabetes inducida por la terapia corticoide.
+Plan de Acción y Evolución
+Se inició el tratamiento con insulina para normalizar las cifras de glucemia y los síntomas de la paciente, mientras se mantuviera el tratamento corticoideo, y se suprimió la terapia oral y se fijó objetivos de glucemia más agresivos evitando complicaciones agudas. La paciente evolucionó favorablemente y mantenía actualmente 6 UI y glucemias basales de 150 mg/dL.
