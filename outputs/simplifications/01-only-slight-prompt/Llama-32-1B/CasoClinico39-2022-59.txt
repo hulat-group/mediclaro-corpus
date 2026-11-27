@@ -1,0 +1,17 @@
+Motivo de consulta
+Un paciente de 76 anos que consulta por glucemia en tratamiento corticideo.
+Enfoque individual (análisis y pruebas complementarias)
+- No hay alergias conocidas.
+- Familiares con cánceres hepático, leucemia, cáncer pulmonario y carcinomatosis ovarica peritoneal.
+- Tratamiento habitual:
+- Ondansetron 8 mg cada 8 horas.
+- Lorazepam 10 mg cada 24 horarios.
+- Fentanil 12 microgramos cada 72 horarios.
+- Ingreso en el hospital debido a neutropenia y infección.
+- Después de la recuperación, se le dio tratamiento con oxigénoterapia y inhaladores (B2 agonistas + corticoides).
+- Se redujo la dosis de corticosteroides a la mitad cada 5 dias y finalmente a 1 mg cada día.
+- En la revisión clínica 48 horas después de la hospitalización, la paciente tenía hipoglucemia con niveles de 400 mg / dL en ayunas.
+- Se identificaron problemas de glucemia inducidos por terapia corticoidal.
+Plan de acción y evolución:
+- Se inició tratamiento de insulina con glargina en dosis inicial con dosis ajustada según la glucemia basal y pre-prandial de la cena.
+- La paciente evoluciona favorablemente y se mantiene bajo control glucémico.
