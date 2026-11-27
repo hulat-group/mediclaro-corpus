@@ -1,0 +1,7 @@
+Motivo de consulta: pérdida de equilibrio y presión arterial alta.
+Enfoque individual: anamnesis, exploración y pruebas complementarias.
+Antecedentes traumáticos: hace un mes, tuvo una caída y se golpeó con un árbol. No consultó por herida.
+Exploración: TA 158 sobre 85, saturación de oxígeno 97% y frecuencia cardíaca 73 latidos por minuto. Exploración neurológica normal. Pruebas complementarias normales.
+TAC craneal muestra una colección extracelular hiperdensa en el interior del cráneo con un nivel líquidolíquido. Imágenes lineales hiperintensas en su interior, localizadas a nivel frontal izquierdo con un grosor máximo de 24 mm. Este hallazgo sugiere hematoma subdurales postraumáticos. No se observan fracturas.
+Juicio clínico (lista de problemas y diagnóstico diferencial): hipertensión arterial en paciente con daño cerebral adquirido.
+Plan de acción y evolución: traslado al hospital para cirugía y control de la presión arterial.

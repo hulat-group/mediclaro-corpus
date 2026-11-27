@@ -1,0 +1,18 @@
+Motivo de consulta
+Diabetes tipo 2 controlada mal, a pesar del tratamiento oral.
+Enfoque individual (anamnesis, exploración y pruebas complementarias)
+- Paciente varón, 44 anos, obeso, con diabetes.
+- No tiene alergias conocidas.
+- Acude para control de diabetes, sin sintomatología.
+- Comportamiento dietético inadecuado y falta de actividad física.
+- Antecedentes: diabetes tipo 2 y otros problemas médicos.
+- Tratamiento actual: Metformina y Dapaglifozina.
+- Exploración: Obesidad, presión arterial alta.
+- Analítica: Glucemia alta, colesterol alto, hemoglobina glicada elevada.
+Juicio clínico (listado de problemas y diagnóstico diferencial)
+- Diabetes tipo 2 difícil de controlar.
+Plan de acción y evolución
+- Consulta para mejorar medidas dietéticas y físicas.
+- Añadimos un tratamiento inyectable y un medicamento para el colesterol.
+- Nueva analítica: glucemia baja, colesterol mejorado, pérdida de peso, presión normal.
+- Control analítico próximo, ajustar dosis de medicamento para colesterol.
