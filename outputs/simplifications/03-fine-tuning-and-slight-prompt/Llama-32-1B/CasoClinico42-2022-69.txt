@@ -1,0 +1,19 @@
+Motivo de consulta
+El paciente es un hombre de 45 años que tiene hipertensión arterial (HTA). A pesar de tratamientos farmacológicos y seguimiento médico, no controla la presión arterial. Presenta síntomas de mareo, sensación de borrosidad de la visión y disnea.
+Enfoque individual
+El paciente fumaba 20 cigarros al día y tenía problemas de visión y mareo.
+Exploración física
+- Estado general: aceptable
+- Presión arterial: elevada (162 mmHg)
+- Soplo sistólicos: más fuerte en el lado izquierdo
+Pruebas complementarias
+- Análisis general: normales
+- Radiografía del tórax: normal
+- ECG: normal
+Diagnóstico diferencial
+- Aneurisma carótido izquierdo
+- Coartación aorta izquierda
+Plan de acción y evolución
+- Ingresó a urgencias con tratamiento médico
+- Realizó aortostenotomía para tratar el aneurisma
+- Embolización de aorta para reducir la presión aorta
