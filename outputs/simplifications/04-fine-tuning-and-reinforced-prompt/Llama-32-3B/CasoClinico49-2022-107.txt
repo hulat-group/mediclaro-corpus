@@ -1,0 +1,34 @@
+Motivo de la Consulta
+El paciente tiene diabetes tipo 2 que no se está controlando bien a pesar del tratamiento con medicamentos orales.
+Historia Cínica
+- Edad: 44 años
+- Alergias: Ninguna conocida
+- Obesidad: Sí
+- Sintomatología: Ninguna
+- Tratamiento actual: Metformina (850 mg, 12 veces al día) y Dapagliloflozina (10 mg, 24 veces al día)
+Examen
+- Peso corporal: 37
+- Presión arterial: 126 / 90
+- Análisis de sangre realizados en noviembre 2021:
+* Glucosa: 139
+* Colesterol total: 206
+* LDL: 150
+* Hemoglobina glucosilada: 9,0%
+Diagnóstico Diferencial
+Diabetes tipo 2 no controlado a despecho de tratamientos.
+Plan de Acción y Evolución
+Después de analizar los resultados, decidimos:
+- Aconsejar al paciente sobre la importancia de hacer ejercicio regularmente (al menos 30 minutos, 5 veces a la semana)
+- Asegurarnos de seguir una dieta saludable
+- Añadir un medicamento inyectable que ayude a controlar la glucosa en sangre
+- Optimizar los tratamientos para reducir los niveles de colesterol
+- Realizar un nuevo análisis de laboratorio en mayo para evaluar el progreso
+Evolución
+En el análisis de mayo 2022, se obtuvieron los siguientes resultados:
+- Glúcose en sangre: 70
+- Colesterol: 178
+- LDL: 134
+- Hemoglobina glúcose: 5,5%
+- Pérdida de peso importante (índice de massa corporal:27)
+- Presión artéria: 120 / 70
+Se programó otro análisis para seguir monitoreando el progreso y ajustar los tratamientos según sea necesario.

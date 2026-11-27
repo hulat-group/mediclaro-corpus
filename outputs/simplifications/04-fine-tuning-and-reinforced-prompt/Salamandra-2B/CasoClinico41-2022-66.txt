@@ -1,0 +1,30 @@
+Motivo de consulta: Dolor lumbar
+Enfoque individual (anamnesis, exploración y pruebas complementarias)
+Historia clínica:
+HTA
+DM2
+Osteoporosis postmenopáusica
+Fractura L1
+Consulta por dolor similar al previo
+Dolor intenso que limita actividades diarias
+Tratamiento analgésicos: paracetamol y metamizol
+Dolor persiste
+Hija acude porque no controla el dolor
+Necesita tratamiento urgente
+Acude a consulta presencial
+Exploración:
+Tinción ictericia
+Crepitantes en auscultación
+Dolor en L1-L4
+Radiografía:
+Infiltración difusa bilaterales
+Derrame pleural derecho
+Diagnóstico:
+Metástasis pulmonar
+Plan de acción y evolución:
+Deriva a urgencias
+Ingresa en neumología
+TAC tórax-abdomen: masa neoplásica en LSI
+Acordar con paciente y familia no pruebas invasivas
+Mantener actitud paliativa
+Devuelve texto adaptado listo para entrega al paciente.

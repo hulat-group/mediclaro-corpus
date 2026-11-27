@@ -1,0 +1,18 @@
+Motivo de la Consulta
+El paciente se encuentra con pérdida de balance y presión arterial alta (hipertensión) desde hace dos semanas. También experimenta cefaleas y mareos sin roturas de objetos. Su hijo menciona que notó bradipsiquia y inestabilidad al caminar. El paciente tiene un historial de un accidente de tráfico hace un mes, con fractura craneoencefalina y una herida superficial.
+Historia Cínica
+- Edad: 76 años
+- Antecedentes médicos: úlcera duodenal sin tratamiento
+- Historial traumático: caída con fractura cranioencefálica y herida superficial hace un mes
+Examen
+- Presión arterial: 158/85 mmHg
+- Oxígeno en sangre: 97%
+- Frecuencia cardíaca: 73 latidos por minuto
+- No se observaron alteraciones neurológicas, pero el paciente tiene dificultad para caminar con lentitud y falta de estabilidad.
+Pruebas Complementarias
+- Análisis de sangre: normal
+- Tomografía computarizada (TAC) craneal: hallazgos indicativos de un hematoma subduralesubagudo/cronicoposttraumático en el lado izquierdo del cerebro.
+Diagnóstico Diferencial
+- Hipertensión en paciente con hematomasubduralsubagudos/crónicosposttraumáticos.
+Plan de Acción y Evolución
+El paciente será trasladado al hospital para una cirugía con craniotonía y colocación de un catéter para drenar el hematoma. Se realizará un control de la presión arterial y se realizará un seguimiento por imagen con el servicio de Neurocirugía.

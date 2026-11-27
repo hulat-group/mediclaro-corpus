@@ -1,0 +1,18 @@
+Motivo de Consulta
+La paciente tiene gonalgia en la izquierda.
+Estructura
+- Evolución
+- Diagnóstico
+- Tratamiento
+- Evolución
+Redacción Simplificada
+La paciente tiene dolor en la parte inferior de su pierna izquierda. Se sospecha que podría ser una alergia a un medicamento.
+Historia Clnica
+- La paciente ha tenido dolor en la pierna durante 2 meses.
+- Ha tenido pérdida de equilibrio y aumento de temperatura.
+- La radiografía revela una lesión en la rodilla izquierda.
+- Se ha realizado análisis de sangre y radiografía para determinar la causa del dolor.
+Plan de Acción y Evolución
+- Se recomienda tratamiento con ácido de alendrón para reducir la inflamación y promover la reparación de la articulación.
+- El paciente se someterá a radiografías periódicas para monitorear la evolución de la lesión.
+- Si la situación no mejora, se realizará una cirugía para reparar la lesión.

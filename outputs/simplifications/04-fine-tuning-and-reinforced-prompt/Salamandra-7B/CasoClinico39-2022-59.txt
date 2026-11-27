@@ -1,0 +1,21 @@
+MOTIVO DE CONSULTA
+Paciente de 76 años que consulta por hiperglucemia en relación con tratamiento corticoideo.
+ENFOQUE INDIVIDUAL (ANAMNESIS, EXPLORACIÓN Y PRUEBAS COMPLEMENTARIAS)
+La paciente no presenta alergias medicamentosas conocidas.
+Entre sus antecedentes familiares se encuentran una madre con carcinoma hepático, un padre con leucemia y un hermano con cáncer de pulmón.
+Entre sus antecedentes personales presenta artrosis, hipertensión arterial, diabetes mellitus y una carcinomatosis ovárica peritoneal en tratamiento paliativo.
+Entre su tratamiento habitual se encuentra:
+- Ondansetrón 8 mg a demanda.
+- Lormetazepam 2 mg 1 comprimido cada 24 horas.
+- Omeprazol 20 mg 1 comprimido cada 24 horas.
+- Paracetamol 1 g 1 comprimido cada 12 horas.
+- Fentanilo 12 mcg 1 parche cada 72 horas.
+- Sitagliptina/metformina 50 mg/1000 mg 1 comprimido cada 24 horas.
+La paciente fue ingresada en el servicio de Medicina Interna en el contexto de una neutropenia febril con una infección respiratoria hipoxemiante e hiperreactividad bronquial secundaria. Una vez resuelto el cuadro, fue dada de alta con oxigenoterapia, inhaladores (b2agonistas+corticoides) y tratamiento corticoideo sistémico en pauta descendente: dexametasona 4 mg/24 h bajando la mitad de dosis cada 5 días hasta final de tratamiento con 1 mg diario.
+En la revisión de atención primaria 48 horas tras el alta hospitalaria, el marido nos refirió que la paciente presentaba hiperglucemias con valores en torno a 400 mg/dl en ayunas, mantenidas a lo largo de todo el día con clínica cardinal.
+ENFOQUE FAMILIAR Y COMUNITARIO
+La paciente es dependiente para sus actividades de la vida diaria, siendo su marido su principal cuidador.
+JUICIO CLÍNICO (LISTADO DE PROBLEMAS Y DIAGNÓSTICO DIFERENCIAL)
+La paciente presentaba una descompensación de su diabetes inducida por la terapia corticoidea.
+PLAN DE ACCIÓN Y EVOLUCIÓN
+Se decidió iniciar tratamiento con insulina para normalizar las cifras de glucemia y los síntomas de la paciente, mientras se mantuviera el tratamiento corticoideo. Para ello, se pautó insulina de acción prolongada (glargina) en dosis única con dosis inicial en función del peso de la paciente (18 UI), ajustando la dosis en función de las glucemias basales y preprandiales de la cena. En nuestra paciente, debido a la situación paliativa y fragilidad, decidimos suprimir la terapia oral y fijar objetivos de glucemia menos agresivos, evitando complicaciones agudas. La paciente evolucionó favorablemente manteniendo actualmente 6 UI y glucemias basales de 150 mg/dl.

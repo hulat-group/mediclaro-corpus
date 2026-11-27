@@ -1,0 +1,26 @@
+Motivo de Consulta
+Paciente de [edad] acude porque presentan bultos debajo de la mandíbula izquierda y derecha.
+Estructura
+1. Motivo de la Consulta
+- Bultos submandíbulares
+- Evolución de varios meses
+2. Historia Clnica
+- Migrante de Senegal
+- Barrera de idioma completa
+- Asistido por técnico ONG
+- Traductor
+3. Examen
+- Exploración de las lesiones
+- Radiografía de tórax
+4. Diagnóstico
+- Xantomas
+- Escrófula
+- Positivo Mantoux
+5. Plan de Acción y Evolución
+- Análisis de sangre e orina
+- Baciloscopia
+- Cultivo de esputo
+6. Recogida de Pruebas Complementarias
+- Dermatología
+7. Seguimiento
+- Revisión de la situación con el técnico de Dermatología.

@@ -1,0 +1,12 @@
+Motivo de la Consulta
+El paciente acudió a Urgencias debido a mareo y problemas de visión.
+Anamnesis, Exploración y Pruebas Complementarias
+El paciente tiene hipertensión arterial (alta presión arterial) desde hace 6 años y no ha podido controlarla bien. También es fumador de 20 cigarros al día. Acaba de experimentar mareo y sensación de confusión visual durante 5 horas.
+Exploración Física
+El paciente presenta un buen estado general, sin dolor ni debilidad en las extremidades. Sus cifras de presión arterial son altas (160/80 mmHg) y tiene un soplo fuerte en el corazón. La mirada vertical está limitada, pero la marcha y el lenguaje están normales.
+Diagnóstico
+Se sospecha que el paciente ha tenido un ictus (ataque cerebrovascular) debido a un aneurisma (protrusión) en la arteria carotídea izquierda y una coartación (narrowing) en la aorta (la arteria que sale del corazón).
+Plan de Acción y Evolución
+Se ha trasladado al paciente a la unidad de neurología y se le ha administrado medicamentos para controlar la presión arterial y el colesterol. Se ha realizado una aortoplastía (procedimiento quirúrgico para ampliar la aorta) y se ha embolizado (cerrado) el aneurisma cerebrovascular.
+Evolución
+El paciente se encuentra estable en la unidad de cuidados intensivos. Su presión arterial sigue siendo alta, pero está recibiendo tratamiento para controlarla. Se le realizarán pruebas adicionales para determinar el daño cerebral causado por el ictus.

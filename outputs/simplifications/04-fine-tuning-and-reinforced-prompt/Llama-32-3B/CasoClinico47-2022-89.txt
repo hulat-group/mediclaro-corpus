@@ -1,0 +1,24 @@
+Motivo de la Consulta
+Presenta una lesión en el tórax que ha crecido desde hace un año y ha causado un pequeño sangrado. Trabaja en el campo y no usa protección solar diaria ni sombrero.
+Estructura del Paciente
+- Edad: 65 años
+- Ocupación: Agricultor
+- Historial médico:
+* Hipertensión arterial (HTA)
+* Diabetes tipo 2 (DLP)
+* Obesidad
+- Medicamentos actuales:
+* Enalapril (para la hipertensión)
+* Simvastatin (para reducir el colesterol)
+* Omeprazole (para tratar la acidez estomacal)
+Examen Clínico
+- El paciente está consciente y bien orientado
+- Tiene una presión arterial normal
+- Su temperatura y frecuencia cardíaca son normales
+- Su estado de deshidratación es normal
+- La piel tiene un tono rojizo brillante con vasos dilatados
+- La lesión es de 9 x 9 mm y tiene bordes elevados
+Diagnóstico
+Se ha confirmado un cáncer basal celular nodular. El cáncer se ha eliminado quirúrgicamente y no se requirieron otros tratamientos adicionales.
+Plan de Acción y Evolución
+El paciente se encuentra en seguimiento en Dermatología.

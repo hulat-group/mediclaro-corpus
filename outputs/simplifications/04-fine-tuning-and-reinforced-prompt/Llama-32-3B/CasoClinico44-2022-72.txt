@@ -1,0 +1,10 @@
+Motivo de la Consulta
+La paciente es una mujer de 49 años con Esclerosis múltiple que ha estado experimentando síntomas como hipotonía, decaimiento y perdidas de fuerza durante varios meses.
+Enfoque Individual (Anamnesis, Exploración y Pruebas Complementarias)
+- Antecedentes: La paciente tiene un historial de Esclerosis múltIPLE diagnosticada a la edad de 17 años y ha estado bajo seguimiento por Neurología.
+- Exploración: La paciente se encuentra en buen estado general, con hipercalcemia (niveles altos de calcio en sangre) y elevación del PTH (hormona paratiroidea), lo que sugiere un problema en la glándula tiroides.
+- Se realizaron pruebas complementarias, incluyendo una ecografía renal y una gammagrafía paratiroidesa, que revelaron un adenoma paratiroidés en el tiroideo derecho.
+Diagnóstico Diferencial
+El diagnóstico diferencial incluye hiperparatiroidismo primario, que se descarta debido a la presencia de un adenoma paratiroideo.
+Plan de Acción y Evolución
+Se valora la posibilidad de un tratamiento farmacológico con cincalcalcet a dosis baja, con un seguimiento regular por parte del médico de cabecera en 4 semanas, con una buena evolución.

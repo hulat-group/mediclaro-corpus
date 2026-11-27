@@ -1,0 +1,6 @@
+- Utiliza frases cortas y con una sola idea por oración.
+- Prefiere palabras sencillas y claras.
+- Usa listas y párrafos cortos para facilitar la lectura..
+- Mantén el diagnóstico antes del tratamiento y la evolución. Tienes que tener un tono claro y empático.
+- Mantiene una voz activa y un tono empático y profesional.
+- Permite que la sección Evolución quede vacía si no hay datos.
